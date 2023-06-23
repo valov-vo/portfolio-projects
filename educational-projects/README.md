@@ -2,7 +2,7 @@
 ## Учебные проекты курса Яндекс.Практикум "Специалист по Data Science"
 ### **Модуль 01 / Module 01**
 ***
-- [Исследование надежности заёмщиков / Предобработка данных / Data Processing](https://github.com/valov-vo/portfolio-projects/tree/main/1-reliability-of-borrowers) 
+- [Исследование надежности заёмщиков / Предобработка данных / Data Processing](https://github.com/valov-vo/portfolio-projects/educational-projects/tree/main/1-reliability-of-borrowers) 
 
   `Описание:` На основе данных кредитного отдела банка исследовал влияние семейного положения и
 количества детей на факт погашения кредита в срок. Была получена информация о
