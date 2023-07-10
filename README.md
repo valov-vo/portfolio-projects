@@ -5,21 +5,21 @@
 
 
 ***
-- [Предобработка и анализ данных / Data processing and analysis](https://github.com/valov-vo/portfolio-projects/tree/main/educational-projects/1-reliability-of-borrowers)</br>
+- [Предобработка и анализ данных / Data processing and analysis](https://github.com/valov-vo/portfolio-projects/tree/main/1-data-analysis)</br>
   `Навыки:` работа с дубликатами, работа с пропусками, категоризация, декомпозиция, визуализация, исследовательский и статистический анализ данных
 ***
-- [Классическое машинное обучение / Classic Machine learning](https://github.com/valov-vo/portfolio-projects/tree/main/educational-projects/2-apartment-advertisment)</br>
+- [Классическое машинное обучение / Classic Machine learning](https://github.com/valov-vo/portfolio-projects/tree/main/2-classic-ml)</br>
   `Навыки:` классификация, регрессия, подбор гиперпараметров, выбор модели МО, разработка бизнес-модели, бутстреп, кастомные метрики, градиентный бустинг
 ***
-- [Обработка естесственного языка / Natural language processing](https://github.com/valov-vo/portfolio-projects/tree/main/educational-projects/3-cellular-communication-tariffs)</br>
+- [Обработка естесственного языка / Natural language processing](https://github.com/valov-vo/portfolio-projects/tree/main/3-nlp)</br>
   `Навыки:` парсинг, eda, topic modeling, NLP, BERT
 ***
-- [Временные ряды / Time series](https://github.com/valov-vo/portfolio-projects/tree/main/educational-projects/4-game-sales)</br>
+- [Временные ряды / Time series](https://github.com/valov-vo/portfolio-projects/tree/main/4-time-series)</br>
   `Навыки:` временные ряды, регрессия, предсказания
 ***
-- [Компьютерное зрение / Computer vision](https://github.com/valov-vo/portfolio-projects/tree/main/educational-projects/5-ml-tariff-choose)</br>
+- [Компьютерное зрение / Computer vision](https://github.com/valov-vo/portfolio-projects/tree/main/5-computer-vision)</br>
   `Навыки:` обработка изображений, нейронные сети
 ***
-- [Кросс-функциональные проекты / Cross-functional projects](https://github.com/valov-vo/portfolio-projects/tree/main/educational-projects/6-bank-clients-loss)</br>
+- [Кросс-функциональные проекты / Cross-functional projects](https://github.com/valov-vo/portfolio-projects/tree/main/6-team-work)</br>
   `Навыки и инструменты:` командная работа, взаимодействие, продакшн
 ***
