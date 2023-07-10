@@ -2,7 +2,7 @@
 ## Предобработка и анализ данных
 <img src='https://sun9-78.userapi.com/impg/PCqEgzYDwvk5VbwMwvvqOf7Ocsy5Kwe1rJt0ZQ/F-mYEatgwcc.jpg?size=604x352&quality=96&sign=7b6353a392b922e6094b007e0f7ab52c&type=album' align='right' width="350" height="350">
 
-- [Исследование надежности заёмщиков / Предобработка данных / Data Processing](https://github.com/valov-vo/portfolio-projects/tree/main/educational-projects/1-reliability-of-borrowers) 
+- [Исследование надежности заёмщиков / Предобработка данных / Data Processing](https://github.com/valov-vo/portfolio-projects/tree/main/1-data-analysis/reliability-of-borrowers) 
 
   `Описание:` На основе данных кредитного отдела банка исследовал влияние семейного положения и количества детей на факт погашения кредита в срок. Была получена информация о данных. Определены и обработаны пропуски. Заменены типы данных на соответствующие хранящимся данным. Удалены дубликаты. Категоризованы данные. Один датафрейм декомпозирован на три.
 
@@ -10,7 +10,7 @@
 
   `Стек технологий проекта:` работа с дубликатами, работа с пропусками, категоризация, декомпозиция
 ***
-- [Исследование объявлений о продаже квартир / Исследовательский анализ данных / Exploratory data analysis](https://github.com/valov-vo/portfolio-projects/tree/main/educational-projects/2-apartment-advertisment) 
+- [Исследование объявлений о продаже квартир / Исследовательский анализ данных / Exploratory data analysis](https://github.com/valov-vo/portfolio-projects/tree/main/1-data-analysis/apartment-advertisment) 
 
   `Описание:` На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость объектов недвижимости разного типа, типичные параметры квартир, в зависимости от удаленности от центра. Проведена предобработка данных. Добавлены новые данные. Построены гистограммы, боксплоты, диаграммы рассеивания.
 
@@ -18,7 +18,7 @@
 
   `Стек технологий проекта:` histogram, boxplot, scattermatrix, категоризация, scatterplot, фрод-мониторинг
 ***
-- [Выбор тарифа сотовой связи / Статистический анализ данных / Statistical analysis of data](https://github.com/valov-vo/portfolio-projects/tree/main/educational-projects/3-cellular-communication-tariffs) 
+- [Выбор тарифа сотовой связи / Статистический анализ данных / Statistical analysis of data](https://github.com/valov-vo/portfolio-projects/tree/main/1-data-analysis/cellular-communication-tariffs) 
 
   `Описание:` Проведен предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора и рекомендованы оптимальные наборы услуг для пользователей. Проведена предобработка данных, их анализ. Проверены гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов.
 
@@ -26,7 +26,7 @@
 
   `Стек технологий проекта:` обработка данных, histogram, boxplot, статистический тест, критерий Стьюдента
 ***
-- [Исследование продаж игр через интернет-магазин / Сборный проект / Common project](https://github.com/valov-vo/portfolio-projects/tree/main/educational-projects/4-game-sales) 
+- [Исследование продаж игр через интернет-магазин / Сборный проект / Common project](https://github.com/valov-vo/portfolio-projects/tree/main/1-data-analysis/game-sales) 
 
   `Описание:` Исследуем данные интернет-магазина «Стримчик», который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
 
